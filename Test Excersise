@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test_Oefening</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>Test Excersise</header>
+    <main></main>
+        <nav>
+            <a href="/About HTML.html">About HTML</a>
+            <a href="/Test_oefening/Why HTML.html">Why HTML</a>
+            <a href="/Test_oefening/History from HTML.html">History from HTML</a>
+        </nav>
+        <section>
+            <h1>Wat is HTML?</h1>
+            <p>HTML staat voor HyperText Markup Language. Het is de standaard opmaaktaal die wordt gebruikt om webpagina's te maken en weer te geven in webbrowsers.</p>
+        </section>
+        <section>
+        <aside>
+            <h2>Belangrijke kenmerken van HTML:</h2>
+            <ul>
+                <li>Structuur: HTML biedt de basisstructuur van een webpagina door gebruik te maken van elementen zoals koppen, paragrafen, lijsten, links, afbeeldingen en meer.</li>
+                <li>Hyperlinks: HTML maakt het mogelijk om hyperlinks te creëren, waardoor gebruikers kunnen navigeren tussen verschillende webpagina's en bronnen op het internet.</li>
+                <li>Multimedia-integratie: HTML ondersteunt de integratie van multimedia-inhoud zoals afbeeldingen, audio en video, waardoor webpagina's interactiever en aantrekkelijker worden.</li>
+                <li>Compatibiliteit: HTML is platformonafhankelijk en wordt ondersteund door alle moderne webbrowsers, waardoor webpagina's toegankelijk zijn voor een breed publiek.</li>
+                <li>Uitbreidbaarheid: HTML kan worden uitgebreid met andere technologieën zoals CSS (Cascading Style Sheets) voor opmaak en JavaScript voor interactiviteit, waardoor complexere webtoepassingen kunnen worden ontwikkeld.</li>
+            </ul>
+        </aside>
+        </section>
+        <footer>Thanks for your visit!k</footer>
+    </main>    
+</body>
+</html>
