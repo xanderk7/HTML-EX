@@ -1,0 +1,42 @@
+nav {
+    hover {
+        background-color:purple;
+    }
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:visited{
+    color: red
+}
+nav a {
+    text-decoration: none;
+    padding: 0.3em;
+    color: blue;
+    border-radius: 5%;
+    border-color: aqua;
+
+}
+nav a :hover {
+    color: green;
+}
+
+nav {
+    background-color: darkblue;
+    display: block;
+    width: fit-content;
+    float: right;
+}
+
+aside {
+    background-color: lightgrey;
+    width: 300px;
+    text-align: left;
+    float: right;
+}
+
+main {
+    background-color: gray;
+    width: 600px;
+    text-align: left;
+}
